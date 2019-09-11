@@ -40,3 +40,13 @@
 
 
 # TODO print if you are a strong match, no match, or in between
+my_input = input('What year were you born in?')
+
+if my_input == '2000':
+    print("You're a dawg woof")
+elif my_input == '2001':
+    print("You're a ")
+
+friend_input = input('What year was your friend born?')
+
+if friend_input == '2001':
