@@ -43,10 +43,56 @@
 my_input = input('What year were you born in?')
 
 if my_input == '2000':
-    print("You're a dawg woof")
+    print("You're a hot breath dragon. Eww ")
 elif my_input == '2001':
-    print("You're a ")
+    print("You're a Slithering Snake")
+elif my_input == '2002':
+    print("You're a slow horse")
+elif my_input == '2003':
+    print("You're the Greatest Of All Time (Goat)")
+elif my_input == '2004':
+    print("You're a crazy monkey")
+elif my_input == '2005':
+    print("You're a loud rooster")
+elif my_input == '2006':
+    print("You're a dawg woof!")
+elif my_input == '2007':
+    print("You're a stinky pig. Eww")
+elif my_input =='2008':
+    print("You're a roaring dragon")
+elif my_input == '2009':
+    print("You're a sneaky snake")
+elif my_input == '2010':
+    print("You're an ugly horse")
+elif my_input =='2011':
+    print("You're a goat with a goatee")
+
+
 
 friend_input = input('What year was your friend born?')
 
 if friend_input == '2001':
+    print("You're a snake")
+elif friend_input == '2002':
+    print("You're a horse")
+elif friend_input == '2003':
+    print("You're a goat")
+elif friend_input == '2004':
+    print("You're a monkey")
+elif friend_input == '2005':
+    print("You're a rooster")
+elif friend_input == '2006':
+    print("You're a dog")
+elif friend_input == '2007':
+    print("You're a pig")
+elif friend_input == '2008':
+    print("You're a dragon")
+elif friend_input == '2009':
+    print("You're a snake")
+elif friend_input == '2010':
+    print("You're a horse")
+elif friend_input == '2011':
+    print("You're a goat")
+elif friend_input == '2012':
+    print("You're a dragon")
+
